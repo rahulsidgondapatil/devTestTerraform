@@ -1,0 +1,2 @@
+2b6fa39eed940e01766dd8c03ac1ed2f50aa6fe7a47fc89425e93aab7f8b42e4  devTestTerraform_v0.1.0-next_linux_amd64.tar.gz
+1a7ddd28367af6827bc0f9e04de8e01fe350e41d1fcb5c10c9305a72806ba635  devTestTerraform_v0.1.0-next_darwin_amd64.tar.gz
