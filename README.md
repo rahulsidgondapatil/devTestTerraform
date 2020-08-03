@@ -1,1 +1,1 @@
-# A tool to build and manage dockerized dev-test bed.
+# A tool to build and manage dockerized test bed for the microservices applications.
